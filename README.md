@@ -10,13 +10,13 @@
 |-------|----------|
 | **Nome da solução** | Refúgio |
 | **Equipe** | CitizenTech |
-| **Integrantes** | [NOME COMPLETO - RM] · [NOME COMPLETO - RM] · [NOME COMPLETO - RM] · [NOME COMPLETO - RM] · [NOME COMPLETO - RM] |
+| **Integrantes** | Artur Rodrigues (RM564309) · Daniel Duarte (RM562508) · Felippe Nascimento Silva (RM562123) · Kawan Oliveira Amorim (RM562197) · Matheus Hideki Doroszewski Yoshimura (RM564970) |
 | **Cidade / bairro** | São Paulo / SP (bairros: Santana, Mooca, Capão Redondo, Brás, Pirituba, Sé) |
 | **Cidadão beneficiado** | Idoso que mora sozinho / trabalhador de rua em bairro urbano |
 | **Problema (1 frase)** | Ondas de calor extremo matam, principalmente idosos que moram sozinhos e trabalhadores de rua. |
 | **Como funciona** | Alerta de calor por bairro (INMET) + check-in "Tô bem" com escalada de contatos (SMS) + mapa de Pontos de Refresco. |
 | **O que esta parte faz** | API REST (Spring Boot + Oracle via JDBC puro) que persiste o domínio e executa a regra central: a **escalada do check-in**. |
-| **Repositório** | [LINK DO GITHUB] |
+| **Repositório** | https://github.com/hidekiys/refugio-api |
 | **Deploy** | [LINK DO RENDER.COM] |
 | **Indicador de impacto** | Nº de idosos em risco detectados e escalados a tempo (idosos sem check-in em bairro com alerta vermelho). |
 | **ODS** | 3 (Saúde) · 10 (Desigualdades) · 11 (Cidades sustentáveis) · 13 (Ação climática) |
