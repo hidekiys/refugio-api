@@ -17,7 +17,7 @@
 | **Como funciona** | Alerta de calor por bairro (INMET) + check-in "Tô bem" com escalada de contatos (SMS) + mapa de Pontos de Refresco. |
 | **O que esta parte faz** | API REST (Spring Boot + Oracle via JDBC puro) que persiste o domínio e executa a regra central: a **escalada do check-in**. |
 | **Repositório** | https://github.com/hidekiys/refugio-api |
-| **Deploy** | [LINK DO RENDER.COM] |
+| **Deploy** | [https://refugio-api-cf2p.onrender.com](https://refugio-api-cf2p.onrender.com) |
 | **Indicador de impacto** | Nº de idosos em risco detectados e escalados a tempo (idosos sem check-in em bairro com alerta vermelho). |
 | **ODS** | 3 (Saúde) · 10 (Desigualdades) · 11 (Cidades sustentáveis) · 13 (Ação climática) |
 
